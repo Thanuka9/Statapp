@@ -107,7 +107,7 @@ This project is licensed under the MIT License.
 ## Contact
 For issues, suggestions, or contributions:
 - **Name**: Thanuka
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-email@example.com](thanuka.ellepola@gmail,com)
 
 ---
 Enjoy analyzing your data with ease! 🚀
